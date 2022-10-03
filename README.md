@@ -23,3 +23,4 @@ They're super easy to setup and you should have your website up and running in n
 ### Join our community on Discord
 
 If you want more real-time communication, you can visit our community on [Discord](https://discord.gg/5tJjhTuqfF). 
+ 
